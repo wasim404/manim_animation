@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="#english-version">English</a>
+  <a href="#English_version">English</a>
 </p>
 
 ## 目录
@@ -77,7 +77,7 @@ curl -O https://raw.githubusercontent.com/wasim404/manim_animation/main/videos/h
 <p align="center"> <img src="https://img.shields.io/badge/python-3.10%20|%203.11-blue" /> <img src="https://img.shields.io/badge/Manim-Animation-orange" /> <img src="https://img.shields.io/github/license/wasim404/manim_animation" /> <img src="https://img.shields.io/github/stars/wasim404/manim_animation?style=social" /> </p>
 
 ### Table of Contents
-- Project Introduction
-- Project Contents
-- How to Use
-- License
+- [Project Introduction](# Project Introduction)
+
+### Project Introduction
+hello
