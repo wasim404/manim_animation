@@ -12,8 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="./readme_en.md">English</a> |
-  <a href="./readme.md">中文</a>
+  <a href="#english-version">English</a>
 </p>
 
 ## 目录
@@ -72,3 +71,5 @@ curl -O https://raw.githubusercontent.com/wasim404/manim_animation/main/videos/h
 你可以自由用于学习、修改和引用，但需遵循 MIT 许可证要求。
 完整协议见：[LICENSE](./LICENSE)
 
+## english-version
+hello
