@@ -74,7 +74,8 @@ curl -O https://raw.githubusercontent.com/wasim404/manim_animation/main/videos/h
 ## English_version
 ### 🎬 Manim Animation Visualization Tutorial Collection
 > Understand the world of computer science through animations.
-<p align="center"> <img src="https://img.shields.io/badge/python-3.10%20|%203.11-blue" /> <img src="https://img.shields.io/badge/Manim-Animation-orange" /> <img src="https://img.shields.io/github/license/wasim404/manim_animation" /> <img src="https://img.shields.io/github/stars/wasim404/manim_animation?style=social" /> </p> <p align="center"> <a href="./README.md">English</a> | <a href="./README_CN.md">中文</a> </p>
+<p align="center"> <img src="https://img.shields.io/badge/python-3.10%20|%203.11-blue" /> <img src="https://img.shields.io/badge/Manim-Animation-orange" /> <img src="https://img.shields.io/github/license/wasim404/manim_animation" /> <img src="https://img.shields.io/github/stars/wasim404/manim_animation?style=social" /> </p>
+
 ### Table of Contents
 - Project Introduction
 - Project Contents
