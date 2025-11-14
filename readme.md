@@ -91,7 +91,9 @@ My Bilibili homepage:
 https://b23.tv/FZEkOV4
 
 The repository is organized for easy browsing:
+
 src/ — All Manim animation source code, categorized by topic
+
 videos/ — Exported MP4 video files for offline viewing or media usage
 
 ### Contents
@@ -122,9 +124,12 @@ For business collaboration, please contact the author first.
 
 #### Using the Videos
 You can access the video files in two ways:
+
 1️⃣ Recommended: Watch directly via the video links
 All videos are uploaded to Bilibili and can be watched online with one click.
+
 2️⃣ Download the original MP4 files via Git
+
 If you prefer to download the raw video files, use the following command:
 ```bash
 curl -O https://raw.githubusercontent.com/wasim404/manim_animation/main/videos/heapsort.mp4
