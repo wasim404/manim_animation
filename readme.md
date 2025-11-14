@@ -87,7 +87,7 @@ This repository contains all source code and exported video files from my contin
 
 The goal is to make abstract concepts in algorithms, information security, compiler theory, operating systems, and more clear and intuitive through visual explanations.
 
-My Bilibili homepage: Wasim404 的个人空间
+My Bilibili homepage:
 https://b23.tv/FZEkOV4
 
 The repository is organized for easy browsing:
