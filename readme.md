@@ -56,8 +56,10 @@
     如需商业合作，请先与作者联系获取许可。
 ### 视频使用
 你可以通过以下两种方式获取本项目的视频文件：
+
 1️⃣ 推荐方式：直接点击前文的视频链接观看
 所有视频均已上传至 B 站，只需点击 README 中对应的链接即可在线观看。
+
 2️⃣ 通过 Git 下载本仓库的视频文件
 如果你想下载原始视频文件（如 .mp4），可以使用指令获取。
 ```bash
@@ -72,17 +74,17 @@ curl -O https://raw.githubusercontent.com/wasim404/manim_animation/main/videos/h
 完整协议见：[LICENSE](./LICENSE)
 
 ## English
-### 🎬 Manim Animation Visualization Tutorial Collection
+# 🎬 Manim Animation Visualization Tutorial Collection
 > Understand the world of computer science through animations.
 <p align="center"> <img src="https://img.shields.io/badge/python-3.10%20|%203.11-blue" /> <img src="https://img.shields.io/badge/Manim-Animation-orange" /> <img src="https://img.shields.io/github/license/wasim404/manim_animation" /> <img src="https://img.shields.io/github/stars/wasim404/manim_animation?style=social" /> </p>
 
-### Table of Contents
+## Table of Contents
 - [Project Introduction](#introduction)
 - [Project Contents](#Contents)
 - [How to Use](#use)
 - [License](#License)
 
-### introduction
+## introduction
 This repository contains all source code and exported video files from my continuously updated Manim Visualization Series on Bilibili.
 
 The goal is to make abstract concepts in algorithms, information security, compiler theory, operating systems, and more clear and intuitive through visual explanations.
@@ -96,7 +98,7 @@ src/ — All Manim animation source code, categorized by topic
 
 videos/ — Exported MP4 video files for offline viewing or media usage
 
-### Contents
+## Contents
 The project includes updates on:
 - 🧮 Algorithm animations (sorting, recursion, dynamic programming, etc.)
 - 🔐 InfoSec visualizations (encryption algorithms, reverse engineering logic)
@@ -106,12 +108,12 @@ The goal is to help learners understand abstract CS concepts through visualizati
 
 If this project helps you, please consider giving it a Star ⭐️ — it is the greatest motivation for me to continue making high-quality tutorials!
 
-#### Video Links
+### Video Links
 - [Understand Stack Frames in One Go! RBP/RSP State Changes Visualization](https://b23.tv/gffvSCI)
 - [Heap Sort Explained Visually: Building, Adjusting, and Sorting](https://b23.tv/EMQTMzJ)
 
-### use
-#### Using the Source Code
+## use
+### Using the Source Code
 To ensure proper and friendly use of this project, please follow the guidelines below:
 1. The source code is for learning, research, and communication purposes.You are welcome to modify, extend, and submit improvements.
 2. You may reference portions of the code or animations in your own videos.
@@ -122,7 +124,7 @@ If a large portion is used, please credit the project:
 4. Commercial use of any code in this repository is not allowed without permission.
 For business collaboration, please contact the author first.
 
-#### Using the Videos
+### Using the Videos
 You can access the video files in two ways:
 
 1️⃣ Recommended: Watch directly via the video links
@@ -137,6 +139,6 @@ curl -O https://raw.githubusercontent.com/wasim404/manim_animation/main/videos/h
 
 Simply replace the filename with any other .mp4 file in the repository.
 
-### License
+## License
 This project is released under the MIT License.
 You are free to learn from it, modify it, and reference it — as long as you comply with the MIT terms.
