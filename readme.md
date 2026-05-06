@@ -15,7 +15,6 @@
   <a href="#English">English</a>
 </p>
 
-## Chinese
 ## 目录
 - [项目简介](#项目简介)
 - [项目内容](#项目内容)
@@ -44,6 +43,7 @@
 - [看一遍就懂！栈帧工作原理解密：RBP/RSP 状态变化过程](https://b23.tv/gffvSCI)
 - [堆排序的工作原理：建堆、调整到最终排序的全流程](https://b23.tv/EMQTMzJ)
 - [逆向必看：1分钟快速学习RVA和FOA转换](https://www.bilibili.com/video/BV1q3qZBDEzy/?share_source=copy_web&vd_source=8922a041b295a24b3abbfddfa88306ff)
+- [二分搜索可视化讲解：精确查找、边界问题与 LeetCode 34](https://www.bilibili.com/video/BV1v6RsBeEVu?t=2.0)
 
 ## 项目使用
 ### 代码使用
@@ -77,9 +77,6 @@ curl -O https://raw.githubusercontent.com/wasim404/manim_animation/main/videos/h
 完整协议见：[LICENSE](./LICENSE)
 
 ## English
-<p align="center">
-  <a href="#Chinese">English</a>
-</p>
 # 🎬 Manim Animation Visualization Tutorial Collection
 > Understand the world of computer science through animations.
 <p align="center"> <img src="https://img.shields.io/badge/python-3.10%20|%203.11-blue" /> <img src="https://img.shields.io/badge/Manim-Animation-orange" /> <img src="https://img.shields.io/github/license/wasim404/manim_animation" /> <img src="https://img.shields.io/github/stars/wasim404/manim_animation?style=social" /> </p>
@@ -117,6 +114,7 @@ If this project helps you, please consider giving it a Star ⭐️ — it is the
 ### Video Links
 - [Understand Stack Frames in One Go! RBP/RSP State Changes Visualization](https://b23.tv/gffvSCI)
 - [Heap Sort Explained Visually: Building, Adjusting, and Sorting](https://b23.tv/EMQTMzJ)
+- [Binary Search Explained Visually: Exact Search, Bounds, and LeetCode 34](https://www.bilibili.com/video/BV1v6RsBeEVu?t=2.0)
 
 ## use
 ### Using the Source Code
