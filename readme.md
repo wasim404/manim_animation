@@ -42,7 +42,7 @@
 ### 视频链接
 - [看一遍就懂！栈帧工作原理解密：RBP/RSP 状态变化过程](https://b23.tv/gffvSCI)
 - [堆排序的工作原理：建堆、调整到最终排序的全流程](https://b23.tv/EMQTMzJ)
-- [逆向必看：1分钟快速学习RVA和FOA转换](https://www.bilibili.com/video/BV1q3qZBDEzy/?share_source=copy_web&vd_source=8922a041b295a24b3abbfddfa88306ff)
+- [逆向必看：1分钟快速学习RVA和FOA转换](https://www.bilibili.com/video/BV1fgqZBHEVF?t=2.4)
 - [二分搜索可视化讲解：精确查找、边界问题与 LeetCode 34](https://www.bilibili.com/video/BV1v6RsBeEVu?t=2.0)
 
 ## 项目使用
