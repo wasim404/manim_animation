@@ -15,6 +15,7 @@
   <a href="#English">English</a>
 </p>
 
+## Chinese
 ## 目录
 - [项目简介](#项目简介)
 - [项目内容](#项目内容)
@@ -76,6 +77,9 @@ curl -O https://raw.githubusercontent.com/wasim404/manim_animation/main/videos/h
 完整协议见：[LICENSE](./LICENSE)
 
 ## English
+<p align="center">
+  <a href="#Chinese">English</a>
+</p>
 # 🎬 Manim Animation Visualization Tutorial Collection
 > Understand the world of computer science through animations.
 <p align="center"> <img src="https://img.shields.io/badge/python-3.10%20|%203.11-blue" /> <img src="https://img.shields.io/badge/Manim-Animation-orange" /> <img src="https://img.shields.io/github/license/wasim404/manim_animation" /> <img src="https://img.shields.io/github/stars/wasim404/manim_animation?style=social" /> </p>
